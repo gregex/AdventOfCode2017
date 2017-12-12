@@ -1,5 +1,5 @@
 from fileinput import input
-data = input("tree.txt")
+data = input("7.txt")
 relations = {}
 
 def isIn(key):

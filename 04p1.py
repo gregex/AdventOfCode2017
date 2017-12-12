@@ -1,5 +1,5 @@
 from fileinput import input
-data = input("input.txt")
+data = input("4.txt")
 count = 0
 for row in data:
     words = row.strip().split(" ")

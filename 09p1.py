@@ -1,6 +1,6 @@
 from fileinput import input
 
-data = input("string.txt")
+data = input("9.txt")
 summed = 0
 layer = 0
 

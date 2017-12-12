@@ -1,5 +1,5 @@
 from fileinput import input
-data = input("input.txt")
+data = input("4.txt")
 countUnfit = {}
 countRows = 0
 total = 0

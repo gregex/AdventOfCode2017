@@ -1,5 +1,5 @@
 from fileinput import input
-data = input("instructions.txt")
+data = input("8.txt")
 variables = {}
 
 def compare(x,y,sign):

@@ -1,6 +1,6 @@
 from fileinput import input
 
-jumps = [int(elem.strip()) for elem in input("jumps.txt")]
+jumps = [int(elem.strip()) for elem in input("5.txt")]
 jumpLen = len(jumps)
 i, count = 0,0
 
